@@ -34,8 +34,4 @@ Analyse des causes : Identifier les causes sous-jacentes des accidents pour mieu
 Consultez l'analyse complète dans le Jupyter Notebook ou consultez cette présentation.
 
 Structure du Référentiel
-├── data
-├── images
-├── README.md
-├── Accidents_Aeriens_Presentation.pdf
-└── accidents_aeriens_analysis.ipynb
+├── Données <br> ├── images <br> ├── README.md <br> ├── Présenté par Saint Germain Emode.pdf <br> └──Bloc-notes Jupyter Python et Markdown.ipynb <br>
