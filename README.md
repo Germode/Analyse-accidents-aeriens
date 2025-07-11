@@ -34,4 +34,4 @@ Analyse des causes : Identifier les causes sous-jacentes des accidents pour mieu
 Consultez l'analyse complète dans le Jupyter Notebook ou consultez cette présentation.
 
 # Structure du Référentiel
-├── Données <br> ├── images <br> ├── README.md <br> ├── Présenté par Saint Germain Emode.pdf <br> └──Bloc-notes Jupyter Python et Markdown.ipynb <br>
+├── Données <br> ├── images <br> ├── README.md <br> ├── Présenté par Saint Germain Emode.pdf <br> └──Bloc-notes Jupyter Python et Markdown.ipynb <br> ├── Analyseur de données.ipynb ├──
