@@ -8,3 +8,10 @@ Le secteur aérien pourrait optimiser l'allocation de ses ressources pour rédui
 Le jeu de données provient de [[source des données sur les accidents aériens](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses/data)], comprenant des informations sur chaque accident, telles que :
 
 Identifiant unique de l'accident <br> Date et heure de l'accident <br> Type d'avion impliqué <br> Causes présumées <br> Nombre de victimes <br>
+# Méthodes
+Ce projet utilise une analyse descriptive pour identifier les tendances au fil du temps. Cela offre un aperçu des types d'accidents et des facteurs de risque associés.
+# Résultats
+La majorité des accidents concernent des avions de type [Airplain].
+Les accidents atteignent un pic pendant les Année  [1980], ce qui souligne la nécessité d'une vigilance accrue durant ces périodes.
+# Visualisations
+!['Nombre d\'Accidents par Type d\'Avion']()
