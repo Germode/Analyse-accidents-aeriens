@@ -21,7 +21,7 @@ Voici une visualisation des accidents par type d'avion
 Voici une visualisation des Accidents au Fil des Ans
 
 ![Accidents au Fil des Ans](https://github.com/Germode/Analyse-accidents-aeriens/blob/main/Images/t%C3%A9l%C3%A9chargement%20(2).png)
-Conclusions
+#Conclusions
 Cette analyse conduit à plusieurs recommandations pour améliorer la sécurité aérienne :
 
 Campagnes de sensibilisation : Mener des campagnes de sensibilisation ciblées pour les types d'avions à haut risque. <br> Optimisation des ressources : Adapter les ressources humaines et matérielles selon les périodes de pic d'accidents. <br> Investissement technologique : Promouvoir l'innovation dans les technologies de sécurité pour prévenir les accidents.<br>
