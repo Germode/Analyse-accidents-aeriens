@@ -21,7 +21,21 @@ Voici une visualisation des accidents par type d'avion
 Voici une visualisation des Accidents au Fil des Ans
 
 ![Accidents au Fil des Ans](https://github.com/Germode/Analyse-accidents-aeriens/blob/main/Images/t%C3%A9l%C3%A9chargement%20(2).png)
-#Conclusions
+# Conclusions
 Cette analyse conduit à plusieurs recommandations pour améliorer la sécurité aérienne :
 
 Campagnes de sensibilisation : Mener des campagnes de sensibilisation ciblées pour les types d'avions à haut risque. <br> Optimisation des ressources : Adapter les ressources humaines et matérielles selon les périodes de pic d'accidents. <br> Investissement technologique : Promouvoir l'innovation dans les technologies de sécurité pour prévenir les accidents.<br>
+# Prochaines Étapes
+Des analyses supplémentaires pourraient fournir des informations pour améliorer davantage la sécurité aérienne :
+
+Modélisation des risques : Utiliser des données historiques pour prédire les accidents potentiels en fonction de divers facteurs.
+Analyse des causes : Identifier les causes sous-jacentes des accidents pour mieux cibler les interventions.
+# Pour Plus d'Informations
+Consultez l'analyse complète dans le Jupyter Notebook ou consultez cette présentation.
+
+Structure du Référentiel
+├── data
+├── images
+├── README.md
+├── Accidents_Aeriens_Presentation.pdf
+└── accidents_aeriens_analysis.ipynb
