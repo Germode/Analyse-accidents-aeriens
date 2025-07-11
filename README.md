@@ -7,7 +7,4 @@ Le secteur aérien pourrait optimiser l'allocation de ses ressources pour rédui
 # Données
 Le jeu de données provient de [[source des données sur les accidents aériens](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses/data)], comprenant des informations sur chaque accident, telles que :
 
-Identifiant unique de l'accident <br> Date et heure de l'accident
-Type d'avion impliqué
-Causes présumées
-Nombre de victimes
+Identifiant unique de l'accident <br> Date et heure de l'accident <br> Type d'avion impliqué <br> Causes présumées <br> Nombre de victimes <br>
