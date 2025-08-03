@@ -21,6 +21,9 @@ Voici une visualisation des accidents par type d'avion
 Voici une visualisation des Accidents au Fil des Ans
 
 ![Accidents au Fil des Ans](https://github.com/Germode/Analyse-accidents-aeriens/blob/main/Images/t%C3%A9l%C3%A9chargement%20(2).png)
+
+Voici le  Tableau de bord interactif
+[Tableau de bord interactif Projet](https://github.com/Germode/Analyse-accidents-aeriens/blob/main/Tableau%20de%20bord%20interactif%20Projet%20Phase1.pbix)
 # Conclusions
 Cette analyse conduit à plusieurs recommandations pour améliorer la sécurité aérienne :
 
