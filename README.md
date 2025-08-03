@@ -24,6 +24,9 @@ Voici une visualisation des Accidents au Fil des Ans
 # Tableau de bord interacti
 Voici le  Tableau de bord interactif
 [Tableau de bord interactif](https://github.com/Germode/Analyse-accidents-aeriens/blob/main/Tableau%20de%20bord%20interactif%20Projet%20Phase1.pbix)
+
+![Tableau de bord interactif](https://github.com/Germode/Analyse-accidents-aeriens/blob/main/Images/Tableau%20de%20bord%20interactif%20Projet%20Phase1_page-0001.jpg)
+
 # Conclusions
 Cette analyse conduit à plusieurs recommandations pour améliorer la sécurité aérienne :
 
