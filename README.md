@@ -24,8 +24,10 @@ Ce projet repose sur une analyse descriptive approfondie visant à mettre en év
 Cette exploration statistique offre ainsi une vision claire des types d’accidents les plus courants, des facteurs de risque récurrents et de leurs interactions potentielles. Les résultats fournissent une base solide pour identifier les appareils et contextes les plus vulnérables, tout en mettant en lumière les périodes ou conditions qui exigent une vigilance particulière. En somme, l’analyse descriptive ne se limite pas à dresser un état des lieux : elle constitue un outil essentiel pour orienter les futures stratégies de prévention, guider les investissements en sécurité aérienne et améliorer la prise de décision à long terme dans l’industrie.
 
 # Résultats
-La majorité des accidents concernent des avions de type [Airplain].
-Les accidents atteignent un pic pendant les Année  [1980], ce qui souligne la nécessité d'une vigilance accrue durant ces périodes.
+La majorité des accidents enregistrés impliquent des avions de type [Airplain], ce qui en fait la catégorie d’appareils la plus touchée sur l’ensemble de la période étudiée. Par ailleurs, le nombre d’incidents atteint un pic marqué dans les années [1980], révélant une concentration inhabituelle d’événements critiques. Cette tendance met en évidence l’importance d’une vigilance accrue durant cette décennie, qu’il s’agisse de l’application de normes de sécurité, de la maintenance des appareils ou du renforcement des procédures opérationnelles.
+
+Cette observation souligne également la nécessité d’examiner les facteurs contextuels propres à cette période — tels que l’évolution des technologies aéronautiques, la croissance du trafic, ou les pratiques de régulation — afin de mieux comprendre les causes de cette augmentation et d’en tirer des enseignements pour les politiques de prévention actuelles et futures.
+
 # Visualisations
 Voici une visualisation des accidents par type d'avion
 
