@@ -1,5 +1,5 @@
-# Premier Bootcamp Data Science + IA : Projet Phase 1
-Prepare et prenter par SAINT GERMAIN Emode
+#  Bootcamp Data Science + IA : Projet Phase 1
+Preparé et presenter par SAINT GERMAIN Emode
 
 # Analyse-accidents-aeriens
 ![Accidents des avion](https://github.com/Germode/Analyse-accidents-aeriens/blob/main/Images/Analyse-accidents-aeriens.png)
