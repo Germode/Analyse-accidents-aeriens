@@ -4,7 +4,7 @@ Preparé et presenter par SAINT GERMAIN Emode
 # Analyse-accidents-aeriens
 ![Accidents des avion](https://github.com/Germode/Analyse-accidents-aeriens/blob/main/Images/Analyse-accidents-aeriens.png)
 # Aperçu
-Ce projet analyse les données relatives aux accidents aériens pour identifier les tendances, les types d'avions les plus souvent impliqués, et les périodes critiques. L'analyse descriptive des données permet de fournir des recommandations pour améliorer la sécurité aérienne.
+Ce projet de science des données analyse les données d'accidents d'aviation de 1962 à 2023 afin d'éclairer la prise de décision stratégique dans le secteur aéronautique. Grâce au nettoyage, à l'exploration et à la visualisation des données, l'objectif est d'identifier les modèles d'avions à faible risque et de générer des informations exploitables pour les acteurs économiques envisageant d'investir dans l'aviation.
 
 # Problème Commercial
 Le secteur aérien pourrait optimiser l'allocation de ses ressources pour réduire les coûts et garantir la sécurité des vols. Cela permettrait d'améliorer la satisfaction des passagers tout en libérant des ressources pour développer de nouveaux services.
