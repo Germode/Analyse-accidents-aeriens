@@ -1,4 +1,5 @@
 # Premier Bootcamp Data Science + IA : Projet Phase 1
+Prepare et prenter par SAINT GERMAIN Emode
 
 # Analyse-accidents-aeriens
 Analyse des données d'accidents aériens
