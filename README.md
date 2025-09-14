@@ -2,7 +2,7 @@
 Prepare et prenter par SAINT GERMAIN Emode
 
 # Analyse-accidents-aeriens
-[Accidents au Fil des Ans](https://github.com/Germode/Analyse-accidents-aeriens/blob/main/Images/t%C3%A9l%C3%A9chargement%20(2).png)
+[[Accidents des avion](https://github.com/Germode/Analyse-accidents-aeriens/blob/main/Images/t%C3%A9l%C3%A9chargement%20(2).png)](https://github.com/Germode/Analyse-accidents-aeriens/blob/main/Images/t%C3%A9l%C3%A9chargement%20(2).png)
 Analyse des données d'accidents aériens
 # Aperçu
 Ce projet analyse les données relatives aux accidents aériens pour identifier les tendances, les types d'avions les plus souvent impliqués, et les périodes critiques. L'analyse descriptive des données permet de fournir des recommandations pour améliorer la sécurité aérienne.
