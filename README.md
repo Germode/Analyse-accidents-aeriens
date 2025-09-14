@@ -1,4 +1,4 @@
-# Premier Bootcamp Data Science + IA : Analyse et ingénierie des données – Phase 1
+# Premier Bootcamp Data Science + IA : Projet Phase 1
 
 # Analyse-accidents-aeriens
 Analyse des données d'accidents aériens
