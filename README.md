@@ -19,7 +19,10 @@ Le dataset contient un du National Transportation Safety Board qui comprend des 
 
 Identifiant unique de l'accident <br> Date et heure de l'accident <br> Type d'avion impliqué <br> Causes présumées <br> Nombre de victimes <br>
 # Méthodes
-Ce projet utilise une analyse descriptive pour identifier les tendances au fil du temps. Cela offre un aperçu des types d'accidents et des facteurs de risque associés.
+Ce projet repose sur une analyse descriptive approfondie visant à mettre en évidence les tendances évolutives des accidents aériens sur plus de soixante ans. L’approche consiste à examiner la fréquence des incidents, leur répartition géographique et temporelle, ainsi que la gravité des conséquences. En segmentant les données par variables clés — telles que le type d’aéronef, la phase de vol, les conditions météorologiques, la région du monde, ou encore les causes probables (erreur humaine, défaillance mécanique, facteurs environnementaux) — l’étude permet de dégager des schémas précis et de suivre leur évolution dans le temps.
+
+Cette exploration statistique offre ainsi une vision claire des types d’accidents les plus courants, des facteurs de risque récurrents et de leurs interactions potentielles. Les résultats fournissent une base solide pour identifier les appareils et contextes les plus vulnérables, tout en mettant en lumière les périodes ou conditions qui exigent une vigilance particulière. En somme, l’analyse descriptive ne se limite pas à dresser un état des lieux : elle constitue un outil essentiel pour orienter les futures stratégies de prévention, guider les investissements en sécurité aérienne et améliorer la prise de décision à long terme dans l’industrie.
+
 # Résultats
 La majorité des accidents concernent des avions de type [Airplain].
 Les accidents atteignent un pic pendant les Année  [1980], ce qui souligne la nécessité d'une vigilance accrue durant ces périodes.
