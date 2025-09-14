@@ -5,10 +5,11 @@ Preparé et presenter par SAINT GERMAIN Emode
 ![Accidents des avion](https://github.com/Germode/Analyse-accidents-aeriens/blob/main/Images/Analyse-accidents-aeriens.png)
 # Aperçu
 Ce projet analyse les données relatives aux accidents aériens pour identifier les tendances, les types d'avions les plus souvent impliqués, et les périodes critiques. L'analyse descriptive des données permet de fournir des recommandations pour améliorer la sécurité aérienne.
+
 # Problème Commercial
 Le secteur aérien pourrait optimiser l'allocation de ses ressources pour réduire les coûts et garantir la sécurité des vols. Cela permettrait d'améliorer la satisfaction des passagers tout en libérant des ressources pour développer de nouveaux services.
 # Données
-Le jeu de données provient de [[source des données sur les accidents aériens](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses/data)], comprenant des informations sur chaque accident, telles que :
+Le dataset contient un du National Transportation Safety Board qui comprend des données sur les accidents d'aviation de 1962 à 2023 concernant les accidents de l'aviation civile et des incidents sélectionnés aux États-Unis et dans les eaux internationales [source des données sur les accidents aériens](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses/data)], 
 
 Identifiant unique de l'accident <br> Date et heure de l'accident <br> Type d'avion impliqué <br> Causes présumées <br> Nombre de victimes <br>
 # Méthodes
